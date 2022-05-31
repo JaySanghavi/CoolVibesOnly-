@@ -1,4 +1,4 @@
-# CoolVibesOnly-
+# News Portal
 *   The page consists of various news sections and each section is identified by its title.
 Each section also has a hero image defining the section.
 The Beauty, Books, Home and Garden and Parenting sections has a gallery indicator to note that the hero image is part of a gallery.
