@@ -28,3 +28,15 @@ h3 {
 body {
   padding: 10px;
 }
+.section-item{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+.right-section-img {
+    width: 75px;
+    margin-left: 10px;
+    border-radius: 10px;
+}

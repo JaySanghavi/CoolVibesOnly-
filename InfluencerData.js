@@ -8,8 +8,8 @@ var rightContentScrollData = [];
 function rightContentScroll() {
     let data = `<div>`;
     rightContentScrollData.map(({ id, text, imgSrc }) => {
-        data = data + `<p class="u-no-padding--bottom">${text}</p>
-            <img src=${imgSrc}> </img>`;
+        data = data + `<section class="section-item"><p class="u-no-padding--bottom">${text}</p>
+            <img class="right-section-img" src=${imgSrc}> </img></section>`;
     });
     data = data + `</div>`
     return data;
