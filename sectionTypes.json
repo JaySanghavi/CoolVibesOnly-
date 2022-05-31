@@ -1,20 +1,25 @@
-[
-  {
-    "sectionName": "Fashion",
-    "sectionId": 1,
-    "sectionUrl": "somelink.com",
-    "sectionImageSrc": "fashion.jpg"
-  },
-  {
-    "sectionName": "Travel",
-    "sectionId": 3,
-    "sectionUrl": "somelink.com",
-    "sectionImageSrc": "travel.jpg"
-  },
-  {
-    "sectionName": "Beauty",
-    "sectionId": 4,
-    "sectionUrl": "somelink.com",
-    "sectionImageSrc": "beauty.jpg"
-  }
+[{
+  "sectionName": "Fashion",
+  "sectionId": 1,
+  "sectionUrl": "somelink.com",
+  "sectionImageSrc": "fashion.jpg"
+},
+{
+  "sectionName": "Travel",
+  "sectionId": 2,
+  "sectionUrl": "somelink.com",
+  "sectionImageSrc": "travel.jpg"
+},
+{
+  "sectionName": "Beauty",
+  "sectionId": 3,
+  "sectionUrl": "somelink.com",
+  "sectionImageSrc": "beauty.jpg"
+},
+{
+  "sectionName": "Advertisements",
+  "sectionId": 4,
+  "sectionUrl": "somelink.com",
+  "sectionImageSrc": "ads.jpg"
+}
 ]
