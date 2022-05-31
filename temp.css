@@ -1,0 +1,33 @@
+#grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+#grid2 {
+  /* margin-left: 20px; */
+  /* height: 100vh;
+  overflow:scroll; */
+}
+.p-card{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+a {
+  color: #ea5e23;
+  font-weight: bold;
+  border-top: 1px solid #dedede;
+  padding-top: 1rem;
+}
+h2 {
+  text-transform: uppercase;
+  font-weight: 1000;
+  font-size: x-large;
+  padding-left: 24px;
+}
+h3 {
+  text-transform: uppercase;
+  font-weight: 1000;
+  font-size: medium;
+  padding-left: 24px;
+}
+body {
+  padding: 10px;
+}
