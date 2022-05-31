@@ -91,9 +91,9 @@ window.onload = async function () {
     await fetch('rightScrollData.json').then(res => res.json()).then(res => {  rightContentScrollData = res });
     console.log(sectionTypes)
     document.getElementById("grid1").innerHTML =
-        '<h2>Lifestyle</h2>' +
+        '<h2>Lifestyle > </h2>' +
         MainPage() +
-        '<h2>Entertainment</h2>';
+        '<h2>Entertainment > </h2>';
 
     document.getElementById("grid2").innerHTML = rightContentScroll();
 
