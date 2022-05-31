@@ -7,7 +7,7 @@
         "articleId": 1,
         "paragraph": "Story behind Alia's upcycled lehenga worn for her mehendi.",
         "adInfo": {
-          "Adpartner": "Kiss and Tell - Watch Full... <br> Ad:Zee Zest"
+          "Adpartner": "Ad from Samsung"
         },
         "bottomInfo": "Eid outfit inspo from Bollywood iftar bash"
       }
@@ -15,43 +15,43 @@
   },
   {
     "sectionId": 2,
-    "sectionHeader": "The quirkiest things to do in Spiti this Summer",
+    "sectionHeader": "KGF-2 Actress Srnidhi Shetty stuns in a mint white anarkali",
     "articleList": [
       {
         "articleId": 1,
-        "paragraph": "A look at India's top most visited heritage sites",
+        "paragraph": "Live updates from Gujarat. Are you travelling right now?",
         "adInfo": {
-          "Adpartner": "A beginners's 5 Day Itinerary to Bali; <br> Ad from Deloitte"
+          "Adpartner": "Ad from Deloitte"
         },
-        "bottomInfo": "How to travel in a train in India with your pet"
+        "bottomInfo": "Eid outfit inspo from Bollywood iftar bash"
       }
     ]
   },
   {
     "sectionId": 3,
-    "sectionHeader": "Korean lip bam recipe for pink lips",
+    "sectionHeader": "KGF-2 Actor Sunil Shetty stuns in a mint white Sherwani",
     "articleList": [
       {
         "articleId": 1,
-        "paragraph": "Best Hair Experiments of BTS' Jungkook",
+        "paragraph": "Kiss and Tell - Watch Full...",
         "adInfo": {
-          "Adpartner": "Unsold Cars in Kochi for Sale. Check it...<br> Ad from KPMG"
+          "Adpartner": "Ad from KPMG"
         },
-        "bottomInfo": "Skincare routine to beat summer acne"
+        "bottomInfo": "Eid outfit inspo from Bollywood iftar bash"
       }
     ]
   },
   {
     "sectionId": 4,
-    "sectionHeader": "KGF-2 Actor Sunil Shetty stuns in a mint white Sherwani",
+    "sectionHeader": "Ads",
     "articleList": [
       {
         "articleId": 1,
-        "paragraph": "Hello Lifestyle World",
+        "paragraph": "Ads from Google",
         "adInfo": {
-          "Adpartner": "Ad from Walmart"
+          "Adpartner": "Ad from Google"
         },
-        "bottomInfo": "Eid outfit inspo from Trollywood iftar bash"
+        "bottomInfo": "Ads from Google"
       }
     ]
   }
