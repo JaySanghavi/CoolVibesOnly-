@@ -54,7 +54,7 @@ function MainPage() {
                      <div class="p-card">
                         <h3>${sectionName}</h3> 
                            <div class="p-card__content">
-                               <img class="p-card__image" alt="" height="185" width="330" src="https://assets.ubuntu.com/v1/36f1139e-Design-and-Web-Team-Blog.jpg">`;
+                               <img class="p-card__image" alt="" height="185" width="330" src="${sectionImageSrc}">`;
             let outerSectionId = sectionId;
 
             sectionContent.map(({ sectionId, sectionHeader, articleList }) => {
