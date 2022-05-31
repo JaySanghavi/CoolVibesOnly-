@@ -47,11 +47,11 @@
     "articleList": [
       {
         "articleId": 1,
-        "paragraph": "Ads from Google",
+        "paragraph": "",
         "adInfo": {
-          "Adpartner": "Ad from Google"
+          "Adpartner": ""
         },
-        "bottomInfo": "Ads from Google"
+        "bottomInfo": ""
       }
     ]
   }
